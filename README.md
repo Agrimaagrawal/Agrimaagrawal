@@ -1,5 +1,5 @@
 ![logo](https://github.com/Agrimaagrawal/Agrimaagrawal/blob/main/Hey!%20I%20am%20Agrima.jpg)
-<h1 align="center">Hi 👋, I'm Agrima Agrawal</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-beige-ten-96.vercel.app/](https://portfolio-beige-ten-96.vercel.app/)
